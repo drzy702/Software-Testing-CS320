@@ -1,16 +1,4 @@
 # Software-Testing-CS320
-This repository contains the following files from CS320:
-
-- `Contact.java`
-- `ContactService.java`
-- `ContactTest.java`
-- `ContactServiceTest.java`
-- Reflection summary from Project Two
-
-These artifacts demonstrate my ability to implement object-oriented programming principles, unit testing, and basic software quality assurance practices.
-
----
-
 ## Reflection
 
 ### How can I ensure that my code, program, or software is functional and secure?
